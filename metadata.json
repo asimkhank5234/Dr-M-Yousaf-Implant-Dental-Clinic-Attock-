@@ -1,0 +1,6 @@
+{
+  "name": "Dr Yousaf Dental Clinic",
+  "description": "Professional dental implant and oral surgery clinic website for Asst Prof Dr. M Yousaf, based in Attock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
